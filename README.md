@@ -23,3 +23,16 @@
 - Git
 
 ## 📁 Структура проекта
+Assets/
+├── Scripts/
+├── Prefabs/
+├── Scenes/
+└── ...
+
+## 🚀 Сборка
+1. Открыть сцену `Assets/Scenes/MainScene.unity`
+2. Запустить через Play Mode в редакторе
+3. Или собрать: File → Build Settings → Windows → Build
+
+## 📄 Лицензия
+Учебный проект. Не для коммерческого использования.
